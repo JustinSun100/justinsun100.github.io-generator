@@ -41,7 +41,7 @@ title 中为文档的标题。
 
 ## 常用的表章节的标签
 
-### h1——h6/section/article/main/aside/p
+### h1——h6/section/article/main/aside/p/
 
 h1——h6 是标题标签。h1 最大，h6 最小，他们是自动加黑加粗的。
 
