@@ -45,7 +45,7 @@ _注意：如果想要点击 a 标签，网页什么也不做只是刷新一次�
 
 iframe 标签是一个内联框架元素，他能将另一个 HTML 页面嵌入到当前页面中
 
-![iframe例图](/images/4.1PNG)
+![iframe例图](/images/4.1.PNG)
 
 这就是在网页中嵌套了一个 iframe，红色区域就是一个 iframe 窗口
 
