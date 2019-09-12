@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://sunheqing.top/"
 languageCode = "zh-Hans"
 title = "青的博客"
 theme = "ananke"
@@ -35,4 +35,3 @@ enableRobotsTXT = true
   recent_posts_number = 2
 
   commentoEnable = true
-  body_classes = "avenir bg-near-white"
