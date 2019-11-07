@@ -19,6 +19,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+
+
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
